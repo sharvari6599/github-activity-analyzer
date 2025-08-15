@@ -1,0 +1,11 @@
+org: your-org
+since: "2024-01-01T00:00:00Z"
+# OR:
+# repos:
+#   - owner/repo1
+#   - owner/repo2
+repos:
+  - pandas-dev/pandas
+  - matplotlib/matplotlib
+  - psf/requests
+since: "2023-01-01T00:00:00Z"

@@ -1,0 +1,12 @@
+# Ignore Python cache and environment files
+__pycache__/
+.venv/
+.env
+
+# Bytecode files
+*.pyc
+*.pyo
+*.pyd
+
+# Mac-specific
+.DS_Store
